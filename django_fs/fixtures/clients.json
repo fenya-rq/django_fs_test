@@ -1,0 +1,22 @@
+[
+  {
+    "model": "users.clientuser",
+    "pk": 1,
+    "fields": {
+      "name": "Иван",
+      "surname": "Петров",
+      "email": "ivan@gmail.com",
+      "registration_dt": "2024-07-14T03:34:22+00:00"
+    }
+  },
+  {
+    "model": "users.clientuser",
+    "pk": 2,
+    "fields": {
+      "name": "Ольга",
+      "surname": "Лаптева",
+      "email": "olga@yandex.ru",
+      "registration_dt": "2024-09-25T16:46:41+00:00"
+    }
+  }
+]

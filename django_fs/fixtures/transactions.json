@@ -1,0 +1,50 @@
+[
+  {
+    "model": "transactions.usertransactions",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "amount": 1400.25,
+      "operation_dt": "2024-10-07T12:24:46+00:00",
+      "change_dt": "2024-10-07T12:24:46+00:00",
+      "kind": "Приход",
+      "category": "Зачисление ЗП"
+    }
+  },
+  {
+    "model": "transactions.usertransactions",
+    "pk": 2,
+    "fields": {
+      "user": 1,
+      "amount": 600,
+      "operation_dt": "2024-10-08T17:14:23+00:00",
+      "change_dt": "2024-10-08T17:14:23+00:00",
+      "kind": "Приход",
+      "category": "Перевод от физ. лица"
+    }
+  },
+  {
+    "model": "transactions.usertransactions",
+    "pk": 3,
+    "fields": {
+      "user": 1,
+      "amount": 350.50,
+      "operation_dt": "2024-10-08T17:14:23+00:00",
+      "change_dt": "2024-10-08T17:14:23+00:00",
+      "kind": "Расход",
+      "category": "Интернет покупки"
+    }
+  },
+  {
+    "model": "transactions.usertransactions",
+    "pk": 4,
+    "fields": {
+      "user": 2,
+      "amount": 13000,
+      "operation_dt": "2024-10-08T17:14:23+00:00",
+      "change_dt": "2024-10-08T17:14:23+00:00",
+      "kind": "Приход",
+      "category": "Перевод от физ. лица"
+    }
+  }
+]
